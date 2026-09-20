@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Open Recruitment Committee VID 2026</title>
+    <style type="text/css">@media screen and (max-width: 600px) {
+    .container {
+        width: 100%
+        }
+    .img-flyer {
+        width: 100%;
+        height: auto
+        }
+    }</style>
+</head>
+<body style="background-color:#f4f4f4; font-family:Arial, sans-serif; margin:0; padding:0" bgcolor="#f4f4f4">
+    <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+        <tr>
+            <td align="center" style="padding: 20px 0;">
+                <table class="container" width="600" cellpadding="0" cellspacing="0" style="border-collapse:collapse; background-color:#ffffff; margin:0 auto;" bgcolor="#ffffff">
+                    
+                    <tr>
+                        <td style="padding: 30px 20px; text-align: center; background-color: #5c0000; color: #f7ef8a;" bgcolor="#5c0000">
+                            <h2 style="margin: 0; font-size: 30px; letter-spacing: 1px;">Ready to be Part of Our Biggest Event?</h2>
+                            <p style="margin: 10px 0 0 0; font-size: 16px; opacity: 0.9;">Join the Veteran Investment Day 2026 Committee and unlock your potential!</p>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td align="center" style="background-color: #5c0000;" bgcolor="#5c0000">
+                            <img src="https://drive.google.com/thumbnail?id=1vTUDrNYK3Df1MEaQdv7BAaMKHmue8ZIV&amp;sz=w1000" alt="Flyer Oprec VID 2026" width="600" class="img-flyer" style="display: block; width: 100%; max-width: 600px; height: auto; border: none;">
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td style="padding: 40px 20px; text-align: center; background-color: #5c0000;" bgcolor="#5c0000">
+                            <h3 style="margin: 0 0 20px 0; color: #ffffff; font-size: 22px;">WHAT ARE YOU WAITING FOR?</h3>
+                            
+                            <table width="100%" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td align="center">
+                                        <a href="https://bit.ly/OprecCommitteeVID2026" target="_blank" style="background-color:#2d0000; color:#f7ef8a; padding:15px 40px; text-decoration:none; font-weight:bold; border-radius:4px; display:inline-block; font-size: 18px; border: 2px solid #f7ef8a;">REGISTER NOW</a>
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <table width="100%" cellpadding="0" cellspacing="0" style="margin-top: 30px;">
+                                <tr>
+                                    <td align="center" style="font-size: 14px; color: #ffffff;">
+                                        <p style="margin: 5px 0;"><strong>Deadline:</strong> May 1st, 2026 at 23.59 WIB</p>
+                                        <p style="margin: 5px 0;"><strong>Booklet:</strong> <a href="https://bit.ly/BookletVID_2026" style="color: #ffffff; text-decoration: underline;">bit.ly/BookletVID_2026</a></p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td style="background-color:#2d0000; color:#f7ef8a; padding:20px; text-align:center; font-size: 14px;" bgcolor="#2d0000">
+                            <p style="margin: 0; font-weight: bold;">KSPM FEB UPN "VETERAN" JAKARTA</p>
+                            <p style="margin: 5px 0;">Instagram: @kspm.upnvj | Email: pr.kspmupnvj@gmail.com</p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
